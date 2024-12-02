@@ -1,0 +1,46 @@
+
+
+{
+    "projects": [
+      {
+        "id": "DevFlow",
+        "title": "Dev<b>F</b>low",
+        "description": "Welcome to our Stack Overflow clone, a platform designed to foster collaboration and knowledge sharing among developers. Built with Next.js 14, Clerk.js for authentication, and TinyMCE for the editor, this application aims to provide a seamless experience for users to ask questions, provide answers, and engage in discussions on various programming topics.",
+        "imageSrc": "/images/proj1/proj1.png",
+        "githubLink": "https://github.com/Sanjeev12357/devflow",
+        "liveLink": "https://devflow-sage.vercel.app/"
+      },
+      {
+        "id": "LMS",
+        "title": "L<b>M</b>S",
+        "description": "Study Notion is a web-based Learning Management System (LMS) built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a feature-rich environment for users to explore courses, manage profiles, and engage in learning activities. The project incorporates various functionalities, including user authentication, OTP generation, course catalog, instructor dashboards, and more.",
+        "imageSrc": "/images/proj2/1.png",
+        "githubLink": "https://github.com/Sanjeev12357/Learning-Mangement-system",
+        "liveLink": "https://learning-mangement-system-pi.vercel.app/"
+      },
+      {
+        "id": "ECOM",
+        "title": "<b>E</b>COM",
+        "description": "Ecommerce platform especially made for college students",
+        "imageSrc": "/images/proj3/1.png",
+        "githubLink": "https://github.com/Sanjeev12357/EcomFrontend",
+        "liveLink": "https://ecom-frontend-tawny-three.vercel.app/"
+      },
+      {
+        "id": "Job Finder",
+        "title": "J<b>o</b>b Finder",
+        "description": "Job Finder Platform for finding jobs made using React Native",
+        "imageSrc": "/images/feature-4.jpg",
+        "githubLink": "https://github.com/Sanjeev12357/Job-Finder-",
+        "liveLink": "https://github.com/Sanjeev12357/Job-Finder-"
+      },
+      {
+        "id": "Evenlty",
+        "title": "Ev<b>e</b>ntly",
+        "description": "An event management site to manage and scedule events register events for free or with some cost, payments using stripe",
+        "imageSrc": "/images/feature-4.jpg",
+        "githubLink": "https://github.com/Sanjeev12357/CuEventManagement",
+        "liveLink": "https://cu-event-management-py4z.vercel.app/"
+      }
+    ]
+  }

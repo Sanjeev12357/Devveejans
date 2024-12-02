@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+  }
+  
+  html {
+    scroll-behavior: smooth; /* Smooth scroll for modern browsers */
+  }
+  
+  .skill-card {
+    transform: scale(1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .skill-card:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover */
+  }
+  
