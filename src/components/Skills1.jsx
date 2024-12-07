@@ -29,7 +29,9 @@ const Skills = () => {
   }, []);
 
   return (
-    <div className="parent min-h-screen w-screen">
+    <div
+    id="skills"
+    className="parent min-h-screen w-screen">
       {/* Animated Title */}
       <div className="relative mb-8 mt-20 flex flex-col items-center gap-5">
         <h2 className="font-general text-sm uppercase md:text-[10px] text-gray-500">

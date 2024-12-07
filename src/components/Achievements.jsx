@@ -145,6 +145,7 @@ const Achievements = () => {
 
     return (
         <section 
+        id='achievements'
             ref={containerRef}
             className="
                 min-h-screen 
