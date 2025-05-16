@@ -39,7 +39,7 @@ const Skills = () => {
         </h2>
         <AnimatedTitle
           title={
-            "Disc <b>o</b>ver the world's <br/> a<b>m</b>azing projects"
+            "Disc<b>o</b>ver the world's <br/> a<b>m</b>azing projects"
           }
           containerClass={"mt-5 !text-black text-center"}
         />
