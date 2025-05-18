@@ -50,7 +50,7 @@ const BentoCard = ({
     return (
        
         <div 
-            className="relative size-full border-violet-300  border-2 overflow-hidden rounded-md"
+            className="relative font-general size-full border-violet-300  border-2 overflow-hidden rounded-md"
             onMouseEnter={() => setIsHovered(true)}
             onMouseLeave={() => setIsHovered(false)}
         >
