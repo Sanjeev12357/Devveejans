@@ -3,7 +3,7 @@ import { TiLink } from 'react-icons/ti';
 
 const ProjectCard = ({ title, description, githubLink, liveLink, imageSrc }) => {
     return (
-        <div className="relative size-full">
+        <div className="relative  size-full">
             <img 
                 src={imageSrc} 
                 alt={title} 

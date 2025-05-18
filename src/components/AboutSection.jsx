@@ -42,11 +42,13 @@ const Hero = () => {
                     </div>
                 </div>
             )}
-            <div 
-                id="video-frame" 
-                className='relative z-10 h-dvh w-screen overflow-hidden rounded-lg 
-                bg-gradient-to-br from-blue-500/70 via-purple-500/70 to-pink-500/70'
-            >
+          <div
+  id="video-frame"
+  class="
+    relative h-dvh w-screen rounded-2xl
+    bg-[linear-gradient(135deg,_#434343_0%,_#000000_100%)]
+  "
+>
                 <div>
                     <div className='mask-clip-path absolute-center absolute z-50 size-64 cursor-pointer overflow-hidden rounded-lg'>
                         <div className='origin-center scale-50 opacity-0 transition-all duration-500 ease-in hover:scale-100 hover:opacity-100'>
@@ -86,8 +88,8 @@ const Hero = () => {
                             />
                         </a>
                         
-                        <div className='bg-white/10 text-black font-robert-medium w-1/2 backdrop-blur-sm rounded-lg p-4'>
-                            <p className='text-blue-75 font-medium italic mb-2'>
+                        <div className='bg-white/10 text-gray-300 font-general md:w-1/2 sm:w-full backdrop-blur-sm rounded-lg p-4 '>
+                            <p className='text-rose-500 font-medium italic mb-2'>
                                 "Trust me, I'm a software engineer."
                             </p>
                             <p className=''>
