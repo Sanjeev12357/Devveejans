@@ -16,7 +16,7 @@ const Contact = () => {
        
 
         <div className="flex flex-col items-center text-center">
-          <p className="mb-10  font-general text-[16px] uppercase">
+          <p className="mb-10  font-general text-[16px] ">
             hey.sanjeevsingh@gmail.com
           </p>
 
