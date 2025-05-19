@@ -16,8 +16,8 @@ const Contact = () => {
        
 
         <div className="flex flex-col items-center text-center">
-          <p className="mb-10 cursor-default font-general text-[10px] uppercase">
-            sanjeev74478@gmail.com
+          <p className="mb-10  font-general text-[16px] uppercase">
+            hey.sanjeevsingh@gmail.com
           </p>
 
           <AnimatedTitle
@@ -25,7 +25,7 @@ const Contact = () => {
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
 
-          <Butoon title="sanjeevsinghsain48@gmail.com" containerClass="mt-10 cursor-pointer" />
+          <Butoon title="hey.sanjeevsingh@gmail.com" containerClass="mt-10 cursor-pointer" />
         </div>
       </div>
     </div>
