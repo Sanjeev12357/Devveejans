@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 import { useWindowScroll } from 'react-use';
 const Navbar = () => {
     const navContainerRef=useRef(null);
-    const navItems=['About',"Skills",'Projects','Achievements','Contact']
+    const navItems=['About',"Skills",'Projects','Contact']
     const audioElementRef=useRef(null);
     const [isAudioPlaying, setIsAudioPlaying] = useState(false);
     const [isIndicatorActive, setIsIndicatorActive] = useState(false);
