@@ -10,6 +10,22 @@
         "githubLink": "https://github.com/Sanjeev12357/devflow",
         "liveLink": "https://devflow-sage.vercel.app/"
       },
+       {
+        "id": "Social Share",
+        "title": "Soc<b>i</b>al Sh<b>a</b>re",
+        "description": "SocialShare is a Saas platform that allows users to share their social media saved posts from any platform like twitter n youtube to other users.",
+        "imageSrc": "/images/proj2/1.png",
+        "githubLink": "https://github.com/Sanjeev12357/brainlyFrontend",
+        "liveLink": "https://socialsshare.devexpertz.me/"
+      },
+      {
+        "id": "Real time chat",
+        "title": "Real<b>t</b>ime Chat",
+        "description": "Real-time chat application built using React, Node.js, and Socket.io. It allows users to communicate in real-time through text messages, providing a seamless chat experience.",
+        "imageSrc": "/images/proj2/1.png",
+        "githubLink": "https://github.com/Sanjeev12357/Short-time-chat",
+        "liveLink": "https://chat.devexpertz.me/"
+      },
       {
         "id": "LMS",
         "title": "L<b>M</b>S",
